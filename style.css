@@ -34,7 +34,7 @@ body {
 .happy-women-day {
   color: white;
   font-size: 50px;
-  position: fixed;
+  position: relative;
   top: 80px;
 }
 
